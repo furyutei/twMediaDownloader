@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "acorn": "^7.1.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.2"
   }
 }
